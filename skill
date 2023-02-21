@@ -47,6 +47,18 @@
         <span class="text-sm font-medium">MySQL</span>
       </div>
       <div class="flex flex-col items-center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" class="mb-2 h-10 w-10" />
+        <span class="text-sm font-medium">PostgreSQL</span>
+      </div>
+      <div class="flex flex-col items-center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" class="mb-2 h-10 w-10" />
+        <span class="text-sm font-medium">MongoDB</span>
+      </div>
+      <div class="flex flex-col items-center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"" alt="Ruby" class="mb-2 h-10 w-10" />
+        <span class="text-sm font-medium">Ruby</span>
+      </div>
+      <div class="flex flex-col items-center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="Ruby On Rails" class="mb-2 h-10 w-10" />
         <span class="text-sm font-medium">Ruby On Rails</span>
       </div>
@@ -59,19 +71,11 @@
         <span class="text-sm font-medium">PHP</span>
       </div>
       <div class="flex flex-col items-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" class="mb-2 h-10 w-10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" class="mb-2 h-10 w-10" />
         <span class="text-sm font-medium">Laravel</span>
       </div>
       <div class="flex flex-col items-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" class="mb-2 h-10 w-10" />
-        <span class="text-sm font-medium">PostgreSQL</span>
-      </div>
-      <div class="flex flex-col items-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" class="mb-2 h-10 w-10" />
-        <span class="text-sm font-medium">MongoDB</span>
-      </div>
-      <div class="flex flex-col items-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="MongoDB" class="mb-2 h-10 w-10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" class="mb-2 h-10 w-10" />
         <span class="text-sm font-medium">CodeIgniter</span>
       </div>
     </div>
